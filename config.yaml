@@ -1,0 +1,7 @@
+---
+permitted_jwt_tokens:
+  TOKEN_A: 0c5e984a-71dc-4f29-b63a-1706dce31337
+  TOKEN_B: 3cca2d64-12ab-4ad0-afe1-1d76850f832e
+  TOKEN_C: 419da548-9443-49a8-aee6-df28d9faf3ee
+permitted_payload_prefix: "[PRE] "
+verified_users: []
