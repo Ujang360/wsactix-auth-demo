@@ -17,7 +17,7 @@ bytestring = { version = "1.0.0", features = ["serde"] }
 env_logger = "0.8.3"
 log = { version = "0.4.14", features = ["serde", "release_max_level_info", "max_level_debug"] }
 mimalloc = { version = "0.1.25", default-features = false, features = ["override"] }
-openssl = { version = "0.10.33", features = ["vendored"] }
+openssl = { version = "0.10.48", features = ["vendored"] }
 serde = { version = "1.0.125", features = ["derive"] }
 tapa-trait-serde = { version = "0.2.0", features = ["json", "yaml"], default-features = false }
 uuid = { version = "0.8.2", features = ["serde", "v4"] }
