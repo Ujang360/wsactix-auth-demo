@@ -1,0 +1,6 @@
+[project]
+name = "ujang-wsactix-auth-demo"
+slug = "ujang-wsactix-auth-demo"
+
+[amem]
+server = "https://amem.flusci.org"
